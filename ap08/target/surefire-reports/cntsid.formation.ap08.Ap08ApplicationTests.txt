@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cntsid.formation.ap08.Ap08ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.675 s -- in cntsid.formation.ap08.Ap08ApplicationTests
